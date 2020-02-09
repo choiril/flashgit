@@ -1,0 +1,5 @@
+# Mengecualikan semua file yang berekstensi html
+*.html
+# Mengecualikan semua isi folder /testing
+testing/
+.gitignore
